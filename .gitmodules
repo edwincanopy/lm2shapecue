@@ -1,0 +1,3 @@
+[submodule "GeneFacePlusPlus"]
+	path = GeneFacePlusPlus
+	url = https://github.com/yerfor/GeneFacePlusPlus
