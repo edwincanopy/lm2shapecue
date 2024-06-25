@@ -9,16 +9,9 @@ Original file is located at
 Check GPU
 """
 
-!nvidia-smi --query-gpu=name,memory.total,memory.free --format=csv,noheader
-
 """Installation"""
 
 import torchvision
-
-!pip install --upgrade pip
-
-!nvidia-smi
-
 import os
 os.environ['TORCH_CUDA_ARCH_LIST'] = '7.5'
 
@@ -35,30 +28,6 @@ import os
 import sys
 import torch
 import pytorch3d
-
-# install pytorch3d, about 15s
-import os
-import sys
-import torch
-need_pytorch3d=False
-try:
-    import pytorch3d
-except ModuleNotFoundError:
-    need_pytorch3d=True
-if need_pytorch3d:
-    if torch.__version__.startswith("2.1.") and sys.platform.startswith("linux"):
-        # We try to install PyTorch3D via a released wheel.
-        pyt_version_str=torch.__version__.split("+")[0].replace(".", "")
-        version_str="".join([
-            f"py3{sys.version_info.minor}_cu",
-            torch.version.cuda.replace(".",""),
-            f"_pyt{pyt_version_str}"
-        ])
-        !pip install fvcore iopath
-        !pip install --no-index --no-cache-dir pytorch3d -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/{version_str}/download.html
-    else:
-        # We try to install PyTorch3D from source.
-        !pip install 'git+https://github.com/facebookresearch/pytorch3d.git@stable'
 
 # install dependencies, about 5~10 min
 !pip install tensorboard==2.13.0 tensorboardX==2.6.1
