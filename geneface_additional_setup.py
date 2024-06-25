@@ -2,7 +2,7 @@
 
 # note here we removed the code replacing c++14 with c++17
 import glob
-all_files = glob.glob("modules/radnerfs/*.py") + glob.glob("modules/radnerfs/*/*.py") + glob.glob("modules/radnerfs/*/*/*.py") + glob.glob("modules/radnerfs/*/*/*/*.py")
+all_files = glob.glob("GeneFacePlusPlus/modules/radnerfs/*.py") + glob.glob("GeneFacePlusPlus/modules/radnerfs/*/*.py") + glob.glob("GeneFacePlusPlus/modules/radnerfs/*/*/*.py") + glob.glob("GeneFacePlusPlus/modules/radnerfs/*/*/*/*.py")
 for file in all_files:
   with open(file) as f:
     lines = f.readlines()
