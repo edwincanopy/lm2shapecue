@@ -65,12 +65,3 @@ cd audio2motion_vae #
 gdown https://drive.google.com/uc?id=1Qg5V-1-IyEgAOxb2PbBjHpYkizuy6njf
 gdown https://drive.google.com/uc?id=1bKY5rn3vcAkv-2m1mui0qr4Fs38jEmy-
 cd ../.. #
-
-# sample inference, about 3 min
-python inference/genefacepp_infer.py \
---a2m_ckpt=checkpoints/audio2motion_vae \
---head_ckpt= \
---torso_ckpt=checkpoints/motion2video_nerf/may_torso \
---drv_aud=data/raw/val_wavs/MacronSpeech.wav \
---out_name=may_demo.mp4 \
---low_memory_usage
