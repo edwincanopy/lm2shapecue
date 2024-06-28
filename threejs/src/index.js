@@ -1,4 +1,3 @@
-// entirely copied from gpt
 import * as THREE from 'three';
 
 const scene = new THREE.Scene();
