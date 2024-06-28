@@ -24,7 +24,7 @@ scene.add(directionalLight);
 // Load the .glb file
 const loader = new GLTFLoader();
 loader.load(
-    '../cube_diorama.glb', // URL to the .glb file
+    'models:cube_diorama.glb', // URL to the .glb file
     function (gltf) {
         scene.add(gltf.scene);
         animate();
