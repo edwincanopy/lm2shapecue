@@ -2,7 +2,6 @@
   "name": "threejs-app",
   "version": "1.0.0",
   "description": "",
-  "main": "public/index.html",
   "scripts": {
     "start": "parcel serve public/index.html",
     "build": "parcel build public/index.html --dist-dir dist"
