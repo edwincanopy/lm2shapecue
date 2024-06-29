@@ -1,4 +1,4 @@
-
+/*
 import * as THREE from 'three';
 
 const scene = new THREE.Scene();
@@ -22,10 +22,10 @@ function animate() {
 }
 
 animate();
-
+*/
 
 // -------
-/*
+
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 
@@ -49,6 +49,7 @@ const directionalLight = new THREE.DirectionalLight(0xffffff, 1);
 directionalLight.position.set(1, 1, 1).normalize();
 scene.add(directionalLight);
 
+console.log('Completed setup.');
 // Load the .glb file
 const loader = new GLTFLoader();
 loader.load(
@@ -62,7 +63,7 @@ loader.load(
         console.error(error);
     }
 );
-
+console.log('Imported file.');
 // Animation loop
 function animate() {
     requestAnimationFrame(animate);
@@ -75,4 +76,4 @@ window.addEventListener('resize', () => {
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
-*/
+
