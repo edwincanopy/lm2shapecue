@@ -1,4 +1,4 @@
-/*
+
 import * as THREE from 'three';
 
 const scene = new THREE.Scene();
@@ -22,10 +22,10 @@ function animate() {
 }
 
 animate();
-*/
+
 
 // -------
-
+/*
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 
@@ -75,4 +75,4 @@ window.addEventListener('resize', () => {
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
-//*/
+*/
