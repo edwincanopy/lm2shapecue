@@ -1,3 +1,4 @@
+/*
 import * as THREE from 'three';
 
 const scene = new THREE.Scene();
@@ -21,8 +22,11 @@ function animate() {
 }
 
 animate();
+*/
 
-/*import * as THREE from 'three';
+// -------
+
+import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 
 // Create the scene
@@ -48,7 +52,7 @@ scene.add(directionalLight);
 // Load the .glb file
 const loader = new GLTFLoader();
 loader.load(
-    'models:cube_diorama.glb', // URL to the .glb file
+    'models/blender_bernice_full_rig_demo.glb', // URL to the .glb file
     function (gltf) {
         scene.add(gltf.scene);
         animate();
