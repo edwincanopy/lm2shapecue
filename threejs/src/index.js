@@ -49,6 +49,7 @@ const directionalLight = new THREE.DirectionalLight(0xffffff, 1);
 directionalLight.position.set(1, 1, 1).normalize();
 scene.add(directionalLight);
 
+console.log('Completed setup.');
 // Load the .glb file
 const loader = new GLTFLoader();
 loader.load(
@@ -62,7 +63,7 @@ loader.load(
         console.error(error);
     }
 );
-
+console.log('Imported file.');
 // Animation loop
 function animate() {
     requestAnimationFrame(animate);
