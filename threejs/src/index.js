@@ -52,7 +52,7 @@ scene.add(directionalLight);
 // Load the .glb file
 const loader = new GLTFLoader();
 loader.load(
-    '../public/models/blender_bernice_full_rig_demo.glb', // URL to the .glb file
+    './public/models/blender_bernice_full_rig_demo.glb', // URL to the .glb file
     function (gltf) {
         scene.add(gltf.scene);
         animate();
