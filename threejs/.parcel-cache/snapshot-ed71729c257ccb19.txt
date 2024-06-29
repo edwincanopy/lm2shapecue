@@ -1,5 +1,16 @@
-5714
-35/home/edwin/lm2shapecue/threejs/src1719570827117433749 1
+5737
+54/home/edwin/lm2shapecue/threejs/dist/index.8b66d534.js1719667421689773212 0
+58/home/edwin/lm2shapecue/threejs/dist/index.8b66d534.js.map1719667421713775344 0
+54/home/edwin/lm2shapecue/threejs/dist/index.210cfcc9.js1719667295442554824 0
+54/home/edwin/lm2shapecue/threejs/dist/index.476d0116.js1719667641965347018 0
+58/home/edwin/lm2shapecue/threejs/dist/index.210cfcc9.js.map1719667295470557313 0
+47/home/edwin/lm2shapecue/threejs/dist/index.html1719667641961346662 0
+54/home/edwin/lm2shapecue/threejs/dist/index.291caf4d.js1719667510373653710 0
+58/home/edwin/lm2shapecue/threejs/dist/index.d3f4529d.js.map1719666805126984636 0
+54/home/edwin/lm2shapecue/threejs/dist/index.1e28140d.js1719666314595396764 0
+54/home/edwin/lm2shapecue/threejs/dist/index.d0584738.js1719572053124784776 0
+36/home/edwin/lm2shapecue/threejs/dist1719667641989349150 1
+35/home/edwin/lm2shapecue/threejs/src1719667632688522673 1
 49/home/edwin/lm2shapecue/threejs/public/index.html1719570827117433749 0
 49/home/edwin/lm2shapecue/threejs/package-lock.json1719570717007788900 0
 70/home/edwin/lm2shapecue/threejs/node_modules/lightningcss/package.json1719570716443739231 0
@@ -500,6 +511,7 @@
 81/home/edwin/lm2shapecue/threejs/node_modules/@parcel/optimizer-image/package.json1719570716543748038 0
 88/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/features/link-icon-svg.js499162500000000000 0
 86/home/edwin/lm2shapecue/threejs/node_modules/three/examples/jsm/renderers/Projector.js499162500000000000 0
+58/home/edwin/lm2shapecue/threejs/dist/index.d0584738.js.map1719572053152787223 0
 78/home/edwin/lm2shapecue/threejs/node_modules/svgo/plugins/removeHiddenElems.js499162500000000000 0
 79/home/edwin/lm2shapecue/threejs/node_modules/@parcel/optimizer-swc/package.json1719570716543748038 0
 82/home/edwin/lm2shapecue/threejs/node_modules/@parcel/utils/test/DefaultMap.test.js499162500000000000 0
@@ -547,6 +559,7 @@
 78/home/edwin/lm2shapecue/threejs/node_modules/@parcel/core/lib/public/Config.js499162500000000000 0
 58/home/edwin/lm2shapecue/threejs/node_modules/color-convert1719570515194075341 1
 62/home/edwin/lm2shapecue/threejs/node_modules/commander/LICENSE499162500000000000 0
+54/home/edwin/lm2shapecue/threejs/dist/index.d3f4529d.js1719666805098982148 0
 96/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/src/_class_apply_descriptor_update.mjs499162500000000000 0
 63/home/edwin/lm2shapecue/threejs/node_modules/@parcel/plugin/src1719570710735236563 1
 91/home/edwin/lm2shapecue/threejs/node_modules/@parcel/core/lib/registerCoreWithSerializer.js499162500000000000 0
@@ -1417,6 +1430,7 @@
 80/home/edwin/lm2shapecue/threejs/node_modules/@parcel/runtime-js/lib/helpers/node1719570710843246075 1
 87/home/edwin/lm2shapecue/threejs/node_modules/three/src/renderers/webgl/WebGLPrograms.js499162500000000000 0
 105/home/edwin/lm2shapecue/threejs/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg/.parcelrc499162500000000000 0
+45/home/edwin/lm2shapecue/threejs/public/models1719667110550126222 1
 69/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/_/_to_array1719570711427297503 1
 85/home/edwin/lm2shapecue/threejs/node_modules/three/src/renderers/webgl/WebGLLights.js499162500000000000 0
 70/home/edwin/lm2shapecue/threejs/node_modules/three/src/renderers/webgl1719570712927429599 1
@@ -1970,7 +1984,7 @@
 99/home/edwin/lm2shapecue/threejs/node_modules/@parcel/core/test/fixtures/custom-targets/package.json499162500000000000 0
 62/home/edwin/lm2shapecue/threejs/node_modules/lmdb/node_modules1719570716295726198 1
 69/home/edwin/lm2shapecue/threejs/node_modules/htmlnano/lib/helpers.cjs499162500000000000 0
-44/home/edwin/lm2shapecue/threejs/src/index.js1719570827117433749 0
+44/home/edwin/lm2shapecue/threejs/src/index.js1719667632688522673 0
 92/home/edwin/lm2shapecue/threejs/node_modules/@parcel/resolver-default/src/DefaultResolver.js499162500000000000 0
 88/home/edwin/lm2shapecue/threejs/node_modules/htmlnano/lib/modules/collapseWhitespace.mjs499162500000000000 0
 95/home/edwin/lm2shapecue/threejs/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/chacha8.c499162500000000000 0
@@ -2021,6 +2035,7 @@
 94/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/src/_possible_constructor_return.mjs499162500000000000 0
 58/home/edwin/lm2shapecue/threejs/node_modules/lmdb/write.js499162500000000000 0
 73/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/geometries1719570712683408112 1
+58/home/edwin/lm2shapecue/threejs/dist/index.291caf4d.js.map1719667510397655843 0
 72/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/animation1719570712235368659 1
 56/home/edwin/lm2shapecue/threejs/node_modules/three/build1719570712739413044 1
 83/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/loaders/PDBLoader.js499162500000000000 0
@@ -2140,7 +2155,7 @@
 87/home/edwin/lm2shapecue/threejs/node_modules/@parcel/workers/lib/core-worker.browser.js499162500000000000 0
 118/home/edwin/lm2shapecue/threejs/node_modules/three/src/renderers/shaders/ShaderChunk/lights_toon_pars_fragment.glsl.js499162500000000000 0
 83/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/libs/basis/README.md499162500000000000 0
-31/home/edwin/lm2shapecue/threejs1719570721376171966 1
+31/home/edwin/lm2shapecue/threejs1719571887562299187 1
 73/home/edwin/lm2shapecue/threejs/node_modules/escape-string-regexp/license1403645654000000000 0
 91/home/edwin/lm2shapecue/threejs/node_modules/three/examples/jsm/nodes/inputs/Matrix4Node.js499162500000000000 0
 97/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/lights/RectAreaLightUniformsLib.js499162500000000000 0
@@ -2261,6 +2276,7 @@
 92/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/features/keyboardevent-key.js499162500000000000 0
 76/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/regions/US.js499162500000000000 0
 75/home/edwin/lm2shapecue/threejs/node_modules/msgpackr/dist/index.min.js.map499162500000000000 0
+58/home/edwin/lm2shapecue/threejs/dist/index.1e28140d.js.map1719666314623399250 0
 96/home/edwin/lm2shapecue/threejs/node_modules/htmlnano/lib/modules/deduplicateAttributeValues.cjs499162500000000000 0
 82/home/edwin/lm2shapecue/threejs/node_modules/@parcel/transformer-html/node_modules1719570716323728663 1
 64/home/edwin/lm2shapecue/threejs/node_modules/picomatch/README.md499162500000000000 0
@@ -2687,7 +2703,7 @@
 87/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/exporters/PLYExporter.js499162500000000000 0
 96/home/edwin/lm2shapecue/threejs/node_modules/@babel/highlight/node_modules/ansi-styles/readme.md1518353760000000000 0
 100/home/edwin/lm2shapecue/threejs/node_modules/three/examples/jsm/renderers/nodes/core/NodeKeywords.js499162500000000000 0
-38/home/edwin/lm2shapecue/threejs/public1719570827117433749 1
+38/home/edwin/lm2shapecue/threejs/public1719666263634871830 1
 96/home/edwin/lm2shapecue/threejs/node_modules/three/src/renderers/WebGLMultisampleRenderTarget.js499162500000000000 0
 105/home/edwin/lm2shapecue/threejs/node_modules/three/examples/jsm/renderers/nodes/utils/ArrayElementNode.js499162500000000000 0
 108/home/edwin/lm2shapecue/threejs/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/package.json499162500000000000 0
@@ -2846,6 +2862,7 @@
 75/home/edwin/lm2shapecue/threejs/node_modules/three/src/extras/core/Curve.js499162500000000000 0
 78/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/features/aac.js499162500000000000 0
 106/home/edwin/lm2shapecue/threejs/node_modules/three/examples/jsm/renderers/webgpu/WebGPUComputePipelines.js499162500000000000 0
+58/home/edwin/lm2shapecue/threejs/dist/index.3f217274.js.map1719572451027598671 0
 65/home/edwin/lm2shapecue/threejs/node_modules/json5/lib/index.d.ts499162500000000000 0
 91/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/src/_async_generator_delegate.mjs499162500000000000 0
 80/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/libs/ammo.wasm.js499162500000000000 0
@@ -3651,6 +3668,7 @@
 75/home/edwin/lm2shapecue/threejs/node_modules/@parcel/optimizer-svgo/LICENSE499162500000000000 0
 71/home/edwin/lm2shapecue/threejs/node_modules/@parcel/optimizer-svgo/src1719570710703233745 1
 68/home/edwin/lm2shapecue/threejs/node_modules/csso/lib/replace/atrule1719570506357302488 1
+79/home/edwin/lm2shapecue/threejs/public/models/blender_bernice_full_rig_demo.glb1719667154194004175 0
 71/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/textures1719570711895338717 1
 88/home/edwin/lm2shapecue/threejs/node_modules/@parcel/optimizer-svgo/src/SVGOOptimizer.js499162500000000000 0
 88/home/edwin/lm2shapecue/threejs/node_modules/@parcel/optimizer-svgo/lib/SVGOOptimizer.js499162500000000000 0
@@ -3658,6 +3676,7 @@
 65/home/edwin/lm2shapecue/threejs/node_modules/css-select/README.md499162500000000000 0
 50/home/edwin/lm2shapecue/threejs/node_modules/tslib1719570716455740288 1
 65/home/edwin/lm2shapecue/threejs/node_modules/tslib/tslib.es6.html499162500000000000 0
+58/home/edwin/lm2shapecue/threejs/dist/index.476d0116.js.map1719667641989349150 0
 70/home/edwin/lm2shapecue/threejs/node_modules/tslib/CopyrightNotice.txt499162500000000000 0
 63/home/edwin/lm2shapecue/threejs/node_modules/tslib/tslib.es6.js499162500000000000 0
 76/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/regions/CF.js499162500000000000 0
@@ -3782,6 +3801,7 @@
 88/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/features/css-clip-path.js499162500000000000 0
 82/home/edwin/lm2shapecue/threejs/node_modules/svgo/plugins/moveGroupAttrsToElems.js499162500000000000 0
 78/home/edwin/lm2shapecue/threejs/node_modules/css-tree/lib/syntax/pseudo/dir.js499162500000000000 0
+48/home/edwin/lm2shapecue/threejs/cube_diorama.glb1719571887598302337 0
 78/home/edwin/lm2shapecue/threejs/node_modules/css-tree/lib/syntax/pseudo/common1719570507297384706 1
 84/home/edwin/lm2shapecue/threejs/node_modules/css-tree/lib/common/OffsetToLocation.js499162500000000000 0
 76/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/regions/HN.js499162500000000000 0
@@ -3858,7 +3878,7 @@
 79/home/edwin/lm2shapecue/threejs/node_modules/css-tree/lib/syntax/scope/index.js499162500000000000 0
 87/home/edwin/lm2shapecue/threejs/node_modules/css-tree/lib/syntax/scope/atrulePrelude.js499162500000000000 0
 79/home/edwin/lm2shapecue/threejs/node_modules/css-tree/lib/syntax/scope/value.js499162500000000000 0
-44/home/edwin/lm2shapecue/threejs/package.json1719570670599702406 0
+44/home/edwin/lm2shapecue/threejs/package.json1719571069314648577 0
 75/home/edwin/lm2shapecue/threejs/node_modules/cosmiconfig/dist/util.d.ts.map499162500000000000 0
 81/home/edwin/lm2shapecue/threejs/node_modules/css-tree/lib/syntax/config/walker.js499162500000000000 0
 80/home/edwin/lm2shapecue/threejs/node_modules/css-tree/lib/syntax/config/lexer.js499162500000000000 0
@@ -4676,6 +4696,7 @@
 76/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/regions/CY.js499162500000000000 0
 84/home/edwin/lm2shapecue/threejs/node_modules/node-gyp-build-optional-packages/bin.js499162500000000000 0
 75/home/edwin/lm2shapecue/threejs/node_modules/css-what/lib/es/index.d.ts.map499162500000000000 0
+60/home/edwin/lm2shapecue/threejs/public/models/.gitattributes1719667110550126222 0
 93/home/edwin/lm2shapecue/threejs/node_modules/three/examples/jsm/lights/LightProbeGenerator.js499162500000000000 0
 73/home/edwin/lm2shapecue/threejs/node_modules/type-fest/source/except.d.ts499162500000000000 0
 83/home/edwin/lm2shapecue/threejs/node_modules/@mischnic/json-sourcemap/dist/index.js1695217769000000000 0
@@ -4740,6 +4761,7 @@
 76/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/regions/TN.js499162500000000000 0
 123/home/edwin/lm2shapecue/threejs/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-arm64-musl.node499162500000000000 0
 83/home/edwin/lm2shapecue/threejs/node_modules/cosmiconfig/dist/ExplorerSync.d.ts.map499162500000000000 0
+54/home/edwin/lm2shapecue/threejs/dist/index.3f217274.js1719572450999596218 0
 76/home/edwin/lm2shapecue/threejs/node_modules/caniuse-lite/data/regions/IM.js499162500000000000 0
 68/home/edwin/lm2shapecue/threejs/node_modules/@parcel/fs/src/types.js499162500000000000 0
 84/home/edwin/lm2shapecue/threejs/node_modules/three/examples/js/curves/CurveExtras.js499162500000000000 0
@@ -5679,6 +5701,7 @@
 74/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/cjs/_type_of.cjs499162500000000000 0
 70/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/cjs/_get.cjs499162500000000000 0
 91/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/cjs/_class_private_field_init.cjs499162500000000000 0
+62/home/edwin/lm2shapecue/threejs/public/models:cube_diorama.glb1719572437726433757 0
 79/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/cjs/_create_super.cjs499162500000000000 0
 79/home/edwin/lm2shapecue/threejs/node_modules/@parcel/optimizer-htmlnano/LICENSE499162500000000000 0
 75/home/edwin/lm2shapecue/threejs/node_modules/@swc/helpers/cjs/_decorate.cjs499162500000000000 0
