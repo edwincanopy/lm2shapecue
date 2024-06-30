@@ -53,7 +53,7 @@ console.log('Completed setup.');
 // Load the .glb file
 const loader = new GLTFLoader();
 loader.load(
-    '/models/blender_bernice_full_rig_demo.glb', // URL to the .glb file
+    '/blender_bernice_full_rig_demo.glb', // URL to the .glb file
     function (gltf) {
         scene.add(gltf.scene);
         animate();
